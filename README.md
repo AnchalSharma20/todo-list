@@ -20,5 +20,3 @@ open http://localhost:3000 to view it in the browser.
 - Bootstrap
 - CSS
 - HTML5
-
-# todo-list
