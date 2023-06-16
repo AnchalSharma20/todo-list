@@ -1,6 +1,6 @@
 # task-manager
 
-Live Site URL: Visit here 🚀
+Live Site URL: [Visit here](https://gregarious-alfajores-774e9a.netlify.app/) 🚀
 
 **Development**
 
